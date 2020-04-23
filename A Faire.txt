@@ -1,0 +1,7 @@
+Regler probleme des vents (trop attire)
+Gerer GameOver (Retour menu avec reinitialisation de la partie)
+Gerer musique et sons
+Faire apparaitre des oiseaux (ennemis)
+Refaire proprement menu et game over
+
+
